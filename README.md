@@ -4,9 +4,9 @@ A modern Chrome extension for managing your tasks directly from the browser popu
 ✨ Features
 ✅ Add & complete tasks with one click
 
-🌐 Multi-language support (Português, English, Français)
+🌐 Multi-language support (Portuguese, English, Français)
 
-📱 Responsive popup design (340x600px)
+📱 Responsive popup design
 
 💾 Persistent storage with Chrome Sync API
 
